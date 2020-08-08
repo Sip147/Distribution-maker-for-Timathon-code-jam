@@ -4,6 +4,13 @@ import klase
 import random
 
 
+#
+#THIS PROGRAM IS NOT MENT FOR PRACTICAL USE
+#CODE IS MESSY AND I KNOW THAT
+#
+
+
+
 pygame.font.init()
 
 WIN_W = 800
